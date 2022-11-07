@@ -16,6 +16,7 @@
 		2A2D3B5229196485000DDD2D /* ToDoListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2D3B5129196485000DDD2D /* ToDoListTests.swift */; };
 		2A2D3B5C29196485000DDD2D /* ToDoListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2D3B5B29196485000DDD2D /* ToDoListUITests.swift */; };
 		2A2D3B5E29196485000DDD2D /* ToDoListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2D3B5D29196485000DDD2D /* ToDoListUITestsLaunchTests.swift */; };
+		2A2D3B6D29196749000DDD2D /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2D3B6C29196749000DDD2D /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2A2D3B5729196485000DDD2D /* ToDoListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDoListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A2D3B5B29196485000DDD2D /* ToDoListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListUITests.swift; sourceTree = "<group>"; };
 		2A2D3B5D29196485000DDD2D /* ToDoListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2A2D3B6C29196749000DDD2D /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				2A2D3B3C29196484000DDD2D /* SceneDelegate.swift */,
 				2A2D3B3E29196484000DDD2D /* ViewController.swift */,
 				2A2D3B4029196484000DDD2D /* Main.storyboard */,
+				2A2D3B6C29196749000DDD2D /* Task.swift */,
 				2A2D3B4329196485000DDD2D /* Assets.xcassets */,
 				2A2D3B4529196485000DDD2D /* LaunchScreen.storyboard */,
 				2A2D3B4829196485000DDD2D /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A2D3B6D29196749000DDD2D /* Task.swift in Sources */,
 				2A2D3B3F29196484000DDD2D /* ViewController.swift in Sources */,
 				2A2D3B3B29196484000DDD2D /* AppDelegate.swift in Sources */,
 				2A2D3B3D29196484000DDD2D /* SceneDelegate.swift in Sources */,
